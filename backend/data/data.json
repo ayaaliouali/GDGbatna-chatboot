@@ -1,0 +1,208 @@
+{
+  "community": {
+    "name": "GDG Batna",
+    "fullName": "Google Developer Group Batna",
+    "description": "GDG Batna is a local Google Developer Group that brings together developers, designers, and tech enthusiasts in Batna, Algeria. The community focuses on learning, sharing knowledge, and growing together through events, workshops, and collaborative projects.",
+    "slogan": "SHOW THEM WHO WE ARE",
+    "backedBy": "Google for Developers",
+    "values": ["Connect", "Learn", "Grow"],
+    "location": "Batna, Algeria"
+  },
+
+  "socialMedia": [
+  {
+    "platform": "Instagram",
+    "username": "gdg.batna",
+    "followers": 6369,
+    "posts": 357
+    
+  },
+  {
+    "platform": "TikTok",
+    "username": "gdg.batna",
+    "followers": 2584,
+    "likes": 23800
+    
+  },
+  {
+    "platform": "LinkedIn",
+    "page": "GDG Batna",
+    "founded": 2022
+  },
+  {
+    "platform": "Website",
+    "url": "https://gdg.community.dev/gdg-batna/"
+  }
+]
+,
+
+ 
+  "eventsLifecycle": [
+    {
+      "name": "Ice Break",
+      "type": "Onboarding & Networking Event",
+      "description": "The Ice Break event helps new members officially join the GDG Batna team. It focuses on introductions, networking, understanding the community structure, and building strong connections between members."
+    },
+    {
+      "name": "Ideathon",
+      "type": "Innovation & Teamwork Event",
+      "description": "The Ideathon focuses on teamwork and creativity. Members collaborate to improve their skills in UI/UX design, product design, marketing, and problem-solving. Teams build prototypes and share innovative ideas."
+    },
+    {
+      "name": "Hackathons",
+      "type": "Internal & External Events",
+      "description": "GDG Batna organizes internal and external hackathons where members apply their technical and creative skills to solve real-world problems."
+    },
+    {
+      "name": "DevFest",
+      "type": "Main Annual Event",
+      "description": "DevFest is the flagship annual event of GDG Batna. It represents the culmination of the season’s activities and plays an important role in preparing members for future events and opportunities."
+    }
+  ]
+,
+
+  "programs": [
+    {
+      "name": "Dev Challenges Platform",
+      "description": "A competitive platform designed to improve real-world developer skills through structured challenges.",
+      "platformUrl": "https://devchallenge.gdgbatna.com/",
+      "challengeTypes": [
+        "Problem Solving (PS)",
+        "Capture The Flag (CTF)",
+        "AI & Automation Challenges"
+      ],
+      "rules": [
+        "AI is allowed but core logic must be original",
+        "No brute force attempts",
+        "Maximum 3 submissions per challenge",
+        "Explanation required",
+        "No sharing full solutions"
+      ]
+    },
+    {
+      "name": "Dev Sessions",
+      "description": "Weekly or scheduled technical sessions covering different development domains such as mobile, web, and backend.",
+      "exampleSession": {
+        "topic": "Mobile Development",
+        "host": "Rostom Gherabli",
+        "platform": "Discord"
+      }
+    },
+    {
+      "name": "Dive Into Dev",
+      "description": "A content creation initiative where members contribute technical videos and educational content.",
+      "status": "Form-based selection process"
+    }
+  ],
+
+  "discordActivities": {
+    "platform": "Discord",
+    "activities": [
+      "General meetings",
+      "Development department meetings",
+      "Project discussions",
+      "Community announcements",
+      "Team onboarding",
+      "Project showcase"
+    ],
+    "examples": [
+      "Season launch meetings",
+      "Website project meetings",
+      "Dev challenge kickoff meetings",
+      "Weekly dev sessions"
+    ]
+  },
+
+  "joining": {
+    "howToJoin": [
+      "Join GDG Batna via the official community page",
+      "Follow GDG Batna on social media",
+      "Join the Discord server",
+      "Participate in events and sessions"
+    ],
+    "benefits": [
+      "Learn modern technologies",
+      "Participate in real projects",
+      "Network with developers",
+      "Improve career skills",
+      "Join hackathons and challenges"
+    ]
+ }
+
+,
+"coreMembers": [
+  {
+    "name": "Ayoub Bezai",
+    "role": "Development Leader",
+    "responsibilities": [
+     "Development department leadership",
+      "Season planning",
+      "Developer programs",
+      "Dev challenges organization"
+    ]
+  },
+  {
+    "name": "Rostom Gherabli",
+    "role": "Development Leader",
+    "responsibilities": [
+      "Development department leadership",
+      "Technical sessions",
+      "Mentoring developers",
+      "Website & platform projects"
+    ]
+  },
+  {
+    "name": "Montassir Aberkane",
+    "role": "Development Leader",
+    "responsibilities": [
+      "Development department leadership",
+      "Project showcase management",
+      "Internal collaborations",
+      "Project follow-up"
+    ]
+  },
+  {
+    "name": "Mohamed Boudiaf ",
+    "role": "gdg batna leader",
+    "responsibilities": [
+      "ex gdg batna lead",
+      "Technical support",
+      "Event assistance",
+      "Workshop support"
+    ]
+  },
+  {
+    "name": "Taha Belala",
+    "role": "gdg batna co-leader",
+    "responsibilities": [
+      "ex gdg batna lead",
+      "Technical support",
+      "Event assistance",
+      "Workshop support"
+    ]
+  },
+  {
+    "name": "Ikram Louchene",
+    "role": "logistics manager",
+    "responsibilities": [
+      "Member assistance",
+      "Event support",
+      "Community engagement"
+    ]
+  },
+  {
+    "name": "Lina Rayane Bensadi",
+    "role": "social media manager",
+    "responsibilities": [
+       "social media manager",
+      "Content creation",
+      "Visual support"
+    ]
+  }
+  
+]
+
+
+}
+
+
